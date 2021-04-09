@@ -1,4 +1,4 @@
-# NSBE 46 💻 | Azure Web Apps for Linux 📦💙 
+# NSBE 47 💻 | Azure Web Apps for Linux 📦💙 
 
 ### Repository Contents 
 
