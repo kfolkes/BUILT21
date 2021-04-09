@@ -45,7 +45,7 @@ python3 --version
 ```
 
 
-Check that your Azure CLI version is 2.0.80 or higher:
+Check that your Azure CLI version is 2.21.0 or higher:
 
 ```
 az --version
@@ -61,6 +61,7 @@ This command opens a browser to gather your credentials. When the command finish
 
 Once signed in, you can run Azure commands with the Azure CLI to work with resources in your subscription.
 
+![login](/az_login.png)
 
 
 # 3.) Download or Git Clone this Repository 
@@ -126,12 +127,7 @@ In your terminal window, press Ctrl+C to exit the Flask development server.
 
 # 5.)  Now it's time to deploy 
 
-```
-az login
 
-```
-![login](/az_login.png)
-```
 az webapp up --sku F1 -n <app-name>
 
 ```
