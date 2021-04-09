@@ -127,7 +127,7 @@ In your terminal window, press Ctrl+C to exit the Flask development server.
 
 # 5.)  Now it's time to deploy 
 
-
+```
 az webapp up --sku F1 -n <app-name>
 
 ```
