@@ -130,7 +130,7 @@ In your terminal window, press Ctrl+C to exit the Flask development server.
 az login
 
 ```
-![login](/azlogin.png)
+![login](/az_login.png)
 ```
 az webapp up --sku F1 -n <app-name>
 
