@@ -1,4 +1,4 @@
-# NSBE 47 💻 | Azure Web Apps for Linux 📦💙 
+# BUILT 💻 | Azure Web Apps for Linux 📦💙 
 
 ### Repository Contents 
 
@@ -11,9 +11,9 @@
 # 1.) Set up your Azure Account and Installations 
 Have an Azure account with an active subscription.
 
-* NSBE Student - [Azure for Students](https://azure.microsoft.com/en-us/free/students/) | $100 in Azure for 12 months with free tier of services - no credit card required with academic verification
+* Student - [Azure for Students](https://azure.microsoft.com/en-us/free/students/) | $100 in Azure for 12 months with free tier of services - no credit card required with academic verification
 
-* NSBE Professionals - [Azure Free Account](https://azure.microsoft.com/en-us/free/search/?&ef_id=EAIaIQobChMI-drA7Iqp6wIVEPDACh0gswLpEAAYASAAEgK9Q_D_BwE:G:s&OCID=AID2100131_SEM_EAIaIQobChMI-drA7Iqp6wIVEPDACh0gswLpEAAYASAAEgK9Q_D_BwE:G:s&gclid=EAIaIQobChMI-drA7Iqp6wIVEPDACh0gswLpEAAYASAAEgK9Q_D_BwE) | $200 in Azure for one month with free tier of services - requires a credit card and probably the best fit for faculty evaluating Azure for course instruction unless your organization has a grant or enterprise agreement.
+* Professionals - [Azure Free Account](https://azure.microsoft.com/en-us/free/search/?&ef_id=EAIaIQobChMI-drA7Iqp6wIVEPDACh0gswLpEAAYASAAEgK9Q_D_BwE:G:s&OCID=AID2100131_SEM_EAIaIQobChMI-drA7Iqp6wIVEPDACh0gswLpEAAYASAAEgK9Q_D_BwE:G:s&gclid=EAIaIQobChMI-drA7Iqp6wIVEPDACh0gswLpEAAYASAAEgK9Q_D_BwE) | $200 in Azure for one month with free tier of services - requires a credit card and probably the best fit for faculty evaluating Azure for course instruction unless your organization has a grant or enterprise agreement.
 
 You download both applications at the same time. 
 
@@ -45,7 +45,7 @@ python3 --version
 ```
 
 
-Check that your Azure CLI version is 2.21.0 or higher:
+Check that your Azure CLI version is 2.25.0 or higher:
 
 ```
 az --version
@@ -161,7 +161,7 @@ In your favorite code editor (Notepad works too), open application.py and update
 
 ```
 def hello():
-    return "Wha Gwan NSBE!"
+    return "Wha Gwan with an update in my code."
 
 ```
 Save your changes and exit the editor.
@@ -185,8 +185,8 @@ This command uses values that are cached locally in the .azure/config file, incl
  
 ### Instructor Information 
 
-- Krystal Folkes - Azure Support Technical Advisor
-- Team: Azure App Service, Open Source Software OSS
+- Krystal Folkes - Azure App & Dev, Cloud Solutions Architect 
+- Team: US Sales, Retail & Consumer Goods
 - LinkedIn: https://www.linkedin.com/in/krystalfolkes/
 
  
