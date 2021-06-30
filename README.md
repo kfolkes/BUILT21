@@ -78,10 +78,10 @@ Use command prompt to create a new directoy for your project and navigate:
 
 ```
 cd Desktop
-mkdir nsbe47_python
-cd nsbe47_python
-git clone https://github.com/kfolkes/nsbe47
-cd nsbe47
+mkdir built_python
+cd built_python
+git clone https://github.com/kfolkes/built21
+cd built21
 ```
 
 The sample code contains an application.py file, which tells App Service that the code contains a Flask app.
